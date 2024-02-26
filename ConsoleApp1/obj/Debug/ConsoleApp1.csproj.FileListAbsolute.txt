@@ -1,0 +1,6 @@
+C:\Users\tural\Desktop\algortihm\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\tural\Desktop\algortihm\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\tural\Desktop\algortihm\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\algortihm\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\algortihm\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\tural\Desktop\algortihm\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
